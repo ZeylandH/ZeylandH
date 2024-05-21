@@ -5,12 +5,13 @@
 [Zeylandrholden11@gbstu.org](mailto:Zeylandrholden11@gbstu.org)
 
 # Experience
-I am well-versed in Java-Oriented programming languages, 3d modeling, Content creation, and 
+I am well-versed in Java-oriented programming languages (such as Java, C, C#, and C++), 3d modeling, and general content creation (Video Editing, Image editing, 3d Modeling).
 
-# Projects
 ## Media Creation
 
-I am a part of a local-scale family business, You Buy We Build. We assemble most merchandise - from boxed furniture to large gazebos.
+I am a part of a local-scale family business, (You Buy We Build)[link:youbuy-webuild.com]. We assemble most merchandise - from boxed furniture to large gazebos.
+# Projects
+
 
 ## In Progress
 I am currently working on a Resin Lens that uses a unique fluid principle to create dimensionally accurate lenses with exceptionally cheap and accessible parts.
