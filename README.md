@@ -1,6 +1,6 @@
 # Zeyland R. Holden - Computer Engineering Student
 
-I enjoy experimenting with the fundamentals of computers and math.
+
 
 [Zeylandrholden11@gbstu.org](mailto:Zeylandrholden11@gbstu.org)
 
@@ -8,6 +8,10 @@ I enjoy experimenting with the fundamentals of computers and math.
 I am well-versed in Java-Oriented programming languages, 3d modeling, Content creation, and 
 
 # Projects
+## Media Creation
+
+I am a part of a local-scale family business, You Buy We Build. We assemble most merchandise - from boxed furniture to large gazebos.
+
 ## In Progress
 I am currently working on a Resin Lens that uses a unique fluid principle to create dimensionally accurate lenses with exceptionally cheap and accessible parts.
 
