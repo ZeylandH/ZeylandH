@@ -9,7 +9,12 @@ I am well-versed in Java-oriented programming languages (such as Java, C, C#, an
 
 ## Media Creation
 
-I am a part of a local-scale family business, (You Buy We Build)[link:youbuy-webuild.com]. We assemble most merchandise - from boxed furniture to large gazebos.
+I am a part of a local-scale family business, [You Buy We Build](youbuy-webuild.com). We assemble most merchandise - from boxed furniture to large gazebos.
+
+I am currently initiating a social media presence with the company and will be periodically uploading videos of assembly to reach viewers this summer.
+
+I have also created the company logo, designed the business card, and frequently contributed to on-site operations.
+
 # Projects
 
 
