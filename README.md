@@ -6,6 +6,8 @@
 
 # Experience
 I am well-versed in Java-oriented programming languages (such as Java, C, C#, and C++), 3d modeling, and general content creation (Video Editing, Image editing, 3d Modeling).
+
+<img src="https://drive.google.com/file/d/1HUvKXZj0wPNVCkpS8nsnEsXGMcP281Ym/view?usp=sharing" alt="Java logo">
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=ZeylandH&show_icons=true&count_private=true">
    	<img height=150 src="https://github-readme-stats.vercel.app/api?username=ZeylandH&show_icons=true&count_private=true"/>
